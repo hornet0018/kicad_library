@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_2375676"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-08-30-10:13:51)
+    (utime 2019-08-31-06:54:06)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "1N4007")
+)
+
+
+(pinAssign "ECS_2375676"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-08-30-10:13:51)
+    (utime 2019-08-31-06:54:06)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_2375676")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "1N4007")
+)
+
+
+(part "1N4007"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-08-30-10:13:51)
+    (utime 2019-08-31-06:54:06)
+    (packageRef "1N4007")
+    (pinAssignRef "ECS_2375676")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Diodes - General Purpose 1kV 1A 1.1V @ 1A SMA(DO-214AC) RoH")
+    (property "Manufacturer_Name" "Shikues")
+    (property "Manufacturer_Part_Number" "1N4007")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "RS_Part_Number" "")
+    (property "RS_Price/Stock" "")
+    (property "Datasheet_Link" "https://datasheet.lcsc.com/szlcsc/SK-1N4007_C126233.pdf")
+    (property "compAreaTopHeight" 2.42)
+)
+
+

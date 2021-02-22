@@ -1,0 +1,153 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "OKL-T_6-W12N-C"
+   (description "MURATA POWER SOLUTIONS - OKL-T/6-W12N-C - DC/DC CONVERTER, 30W, ADJ OUTPUT")
+   (family "ANA")
+   (package "OKL-T/3-W5")
+   (attribute "Datasheet Link" "http://www.mouser.com/ds/2/281/okl-t6-w12-21493.pdf")
+   (attribute "Manufacturer_Name" "Murata Electronics")
+   (attribute "Manufacturer_Part_Number" "OKL-T/6-W12N-C")
+   (attribute "Mouser Part Number" "580-OKL-T/6-W12N-C")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=580-OKL-T%2F6-W12N-C")
+   (attribute "RS Part Number" "1736944P")
+   (attribute "RS Price/Stock" "http://uk.rs-online.com/web/p/products/1736944P")
+   (gate
+    (symbol "OKL-T_6-W12N-C")
+    (pin "ON/OFF" 1 PS)
+    (pin "VIN" 2 PS)
+    (pin "GND_1" 3 PS)
+    (pin "VOUT" 4 PS)
+    (pin "SENSE" 5 PS)
+    (pin "TRIM" 6 PS)
+    (pin "GND_2" 7 PS)
+    (pin "NC_1" 8 PS)
+    (pin "SEQ" 9 PS)
+    (pin "PGOOD" 10 PS)
+    (pin "NC_2" 11 PS)
+    (pin "NC_3" 12 PS)
+   )
+  )
+  (symbol "OKL-T_6-W12N-C"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "OKL-T/3-W5"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -12.19 0)
+      (pt 0 0)
+      (pt 0 12.19)
+      (pt -12.19 12.19)
+      (pt -12.19 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -12.19 12.19)
+      (pt 0 12.19)
+      (pt 0 0)
+      (pt -12.19 0)
+      (pt -12.19 12.19))))
+   (leg 1 (pt -10.67 6.1) (padstack 0))
+   (leg 2 (pt -9.53 10.67) (padstack 2))
+   (leg 3 (pt -4.95 10.67) (padstack 3))
+   (leg 4 (pt -1.52 9.53) (padstack 4))
+   (leg 5 (pt -1.52 6.1) (padstack 0))
+   (leg 6 (pt -1.52 1.52) (padstack 0))
+   (leg 7 (pt -6.09 1.52) (padstack 0))
+   (leg 8 (pt -8.38 1.52) (padstack 0))
+   (leg 9 (pt -10.67 1.52) (padstack 0))
+   (leg 10 (pt -10.67 3.81) (padstack 0))
+   (leg 11 (pt -1.52 3.81) (padstack 0))
+   (leg 12 (pt -3.81 1.52) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (square 1.27))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 2.03 4.32 0 0 0))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (rectf 2.03 4.32 0 0 0))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (rectf 2.03 4.32 0 0 90))
+   )
+  )
+ )
+)

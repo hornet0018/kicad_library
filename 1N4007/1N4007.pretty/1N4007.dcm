@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4007
+D Diodes - General Purpose 1kV 1A 1.1V @ 1A SMA(DO-214AC) RoH
+K
+F https://datasheet.lcsc.com/szlcsc/SK-1N4007_C126233.pdf
+$ENDCMP
+#
+#End Doc Library

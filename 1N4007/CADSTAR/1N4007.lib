@@ -1,0 +1,18 @@
+.1N4007 :1 ;Diodes - General Purpose 1kV 1A 1.1V @ 1A SMA(DO-214AC) RoH
+DIOM5327X242N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN 1N4007
+~!Manufacturer_Name (Shikues)
+~!Manufacturer_Part_Number (1N4007)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/SK-1N4007_C126233.pdf)
+~!Height (2.42mm)
+~!3D_Model (1N4007)
+"1N4007"
+1.1!U 2.1!U 

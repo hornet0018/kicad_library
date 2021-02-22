@@ -1,0 +1,20 @@
+.ZXLD1360ET5TA :1 ;LED Driver 30V 1A AEC-Q100 TSOT23-5 DiodesZetex ZXLD1360ET5TA, LED Driver, 1-Digits
+SOT95P280X100-5N
+*STM IC
+*NGS
+*PLB 1="LX" 2="GND" 3="ADJ" 4="ISENSE" 5="VIN"
+*MXP 5
+*DFN ZXLD1360ET5TA
+~!Manufacturer_Name (Diodes Inc.)
+~!Manufacturer_Part_Number (ZXLD1360ET5TA)
+~!Mouser Part Number (522-ZXLD1360E5TA)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=522-ZXLD1360E5TA)
+~!RS Part Number (7385156P)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/7385156P)
+~!Allied_Number (70438777)
+~!Link Allied Price/Stock (https://www.alliedelec.com/diodesinc-zxld1360et5ta/70438777/)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/ZXLD1360ET5TA.pdf)
+~!Height (1mm)
+~!3D_Model (ZXLD1360ET5TA)
+ZXLD1360ET5TA
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DF13-6P-1.25DSA
+D Hirose DF13, 1.25mm Pitch, 6 Way, 1 Row, Straight PCB Header, Through Hole
+K
+F https://componentsearchengine.com/Datasheets/2/DF13-6P-1.25DSA.pdf
+$ENDCMP
+#
+#End Doc Library

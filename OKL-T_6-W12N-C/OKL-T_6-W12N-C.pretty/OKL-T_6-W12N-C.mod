@@ -1,0 +1,99 @@
+PCBNEW-LibModule-V1  2019-10-10 16:37:27
+# encoding utf-8
+Units mm
+$INDEX
+OKL-T/3-W5
+$EndINDEX
+$MODULE OKL-T/3-W5
+Po 0 0 0 15 5d9f5037 00000000 ~~
+Li OKL-T/3-W5
+Cd OKL-T/3-W5
+Kw Undefined or Miscellaneous
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0 -6.095 -6.095 1.27 1.27 0 0.254 N V 21 N "U**"
+T1 -6.095 -6.095 1.27 1.27 0 0.254 N I 21 N "OKL-T/3-W5"
+DS -12.19 0 0 0 0.2 24
+DS 0 0 0 -12.19 0.2 24
+DS 0 -12.19 -12.19 -12.19 0.2 24
+DS -12.19 -12.19 -12.19 0 0.2 24
+DS -12.19 -12.19 0 -12.19 0.1 21
+DS 0 -12.19 0 0 0.1 21
+DS 0 0 -12.19 0 0.1 21
+DS -12.19 0 -12.19 -12.19 0.1 21
+$PAD
+Po -10.67 -6.1
+Sh "1" R 1.27 1.27 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -9.53 -10.67
+Sh "2" R 2.03 4.32 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -4.95 -10.67
+Sh "3" R 2.03 4.32 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -1.52 -9.53
+Sh "4" R 2.03 4.32 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -1.52 -6.1
+Sh "5" R 1.27 1.27 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -1.52 -1.52
+Sh "6" R 1.27 1.27 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -6.09 -1.52
+Sh "7" R 1.27 1.27 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -8.38 -1.52
+Sh "8" R 1.27 1.27 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -10.67 -1.52
+Sh "9" R 1.27 1.27 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -10.67 -3.81
+Sh "10" R 1.27 1.27 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -1.52 -3.81
+Sh "11" R 1.27 1.27 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -3.81 -1.52
+Sh "12" R 1.27 1.27 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE OKL-T/3-W5
+$EndLIBRARY

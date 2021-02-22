@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OKL_T_6_W12N_C'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Murata Electronics", "OKL-T/6-W12N-C" (!) = "", "OKL-T/3-W5", "Other", "580-OKL-T/6-W12N-C", "https://www.mouser.com/Search/Refine.aspx?Keyword=580-OKL-T%2F6-W12N-C", "1736944P", "http://uk.rs-online.com/web/p/products/1736944P", "MURATA POWER SOLUTIONS - OKL-T/6-W12N-C - DC/DC CONVERTER, 30W, ADJ OUTPUT", "http://www.mouser.com/ds/2/281/okl-t6-w12-21493.pdf"
+END_PART
+
+END.

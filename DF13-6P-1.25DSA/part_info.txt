@@ -1,0 +1,9 @@
+Manufacturer=Hirose
+PartNumber=DF13-6P-1.25DSA
+PartCategory=Hardware
+PackageCategory=Header, Shrouded
+PinCount=6
+Version=2.1
+Released=2018-12-08 06:39:38
+Downloaded=2019-10-12 14:15:27
+3D=Y

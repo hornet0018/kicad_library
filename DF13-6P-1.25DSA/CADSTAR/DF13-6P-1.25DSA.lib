@@ -1,0 +1,18 @@
+.DF13-6P-1.25DSA :1 ;Hirose DF13, 1.25mm Pitch, 6 Way, 1 Row, Straight PCB Header, Through Hole
+SHDR6W35P0X125_1X6_915X340X430P
+*STM H
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6"
+*MXP 6
+*DFN DF13-6P-1.25DSA
+~!Manufacturer_Name (Hirose)
+~!Manufacturer_Part_Number (DF13-6P-1.25DSA)
+~!Mouser Part Number (798-DF13-6P-1.25DSA)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=798-DF13-6P-1.25DSA)
+~!RS Part Number (5037928)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/5037928)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/DF13-6P-1.25DSA.pdf)
+~!Height (4.3mm)
+~!3D_Model (DF13-6P-1.25DSA)
+DF13-6P-1.25DSA
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

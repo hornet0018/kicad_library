@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=L298N
+PartCategory=Integrated Circuit
+PackageCategory=Transistor Outline, Vertical
+PinCount=15
+Version=1.2
+Released=2015-11-03 12:30:39
+Downloaded=2019-10-12 03:12:11
+3D=Y

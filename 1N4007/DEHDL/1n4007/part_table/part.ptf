@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1N4007'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Shikues", "1N4007" (!) = "", "DIOM5327X242N", "Diodes Moulded", "", "", "", "", "Diodes - General Purpose 1kV 1A 1.1V @ 1A SMA(DO-214AC) RoH", "https://datasheet.lcsc.com/szlcsc/SK-1N4007_C126233.pdf", "2.42 mm"
+END_PART
+
+END.

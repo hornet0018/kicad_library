@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "OKL-T_3-W5"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "OKL-T_3-W5")
+        (spec "default")
+    )
+)

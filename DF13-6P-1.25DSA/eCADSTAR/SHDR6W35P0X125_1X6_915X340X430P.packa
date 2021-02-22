@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DF13-6P-1_25DSA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-26-07:56:18)
+    (mountForm default
+        (footprintRef "SHDR6W35P0X125_1X6_915X340X430P")
+        (spec "System")
+    )
+)

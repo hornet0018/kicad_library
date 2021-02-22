@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DF13_6P_1.25DSA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Hirose", "DF13-6P-1.25DSA" (!) = "", "SHDR6W35P0X125_1X6_915X340X430P", "Header, Shrouded", "798-DF13-6P-1.25DSA", "https://www.mouser.com/Search/Refine.aspx?Keyword=798-DF13-6P-1.25DSA", "5037928", "http://uk.rs-online.com/web/p/products/5037928", "Hirose DF13, 1.25mm Pitch, 6 Way, 1 Row, Straight PCB Header, Through Hole", "https://componentsearchengine.com/Datasheets/2/DF13-6P-1.25DSA.pdf", "4.3 mm"
+END_PART
+
+END.

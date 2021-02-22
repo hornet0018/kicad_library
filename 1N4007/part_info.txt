@@ -1,0 +1,9 @@
+Manufacturer=Shikues
+PartNumber=1N4007
+PartCategory=Diode
+PackageCategory=Diodes Moulded
+PinCount=2
+Version=1.1
+Released=2019-08-30 10:13:51
+Downloaded=2019-10-12 11:36:38
+3D=Y
